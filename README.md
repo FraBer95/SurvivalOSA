@@ -1,4 +1,4 @@
-# SurvivalOSA-
+# SurvivalOSA
 
 This is the private repository of the "_Enhancing Survival Analysis Model Selection Through
 XAI(t) in Healthcare_" paper. 
