@@ -14,3 +14,5 @@ The python libraries requested are:
   
 The R libraries requested are:
 - _survival, surviminer, survex, randomForestSRC, gbm, survivalsvm, ggsurvfit, ggplot2, pec, caret, SurvMetrics, mlr3proba, mlr3extralearners, mlr3pipelines, mlr3tuning, survivalmodels, reticulate_
+
+For running CoxTime model it is suggested to install  pandas==1.5.3
