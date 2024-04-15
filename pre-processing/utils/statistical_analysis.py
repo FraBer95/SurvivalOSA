@@ -146,6 +146,7 @@ def statistical_test(data):
             folder = os.path.join(r"images/feature_distribution", feature)
             plt.savefig(folder)
 
+    return data
 
 
 
