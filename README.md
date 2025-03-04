@@ -1,6 +1,6 @@
 # SurvivalOSA
 
-This is the private repository of the "_Enhancing Survival Analysis Model Selection Through
+This is repository of the "_Enhancing Survival Analysis Model Selection Through
 XAI(t) in Healthcare_" paper. 
 
 The code is written in R and Python and it is composed by two main parts:
